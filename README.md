@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" title="MIPS" src="images/MIPS.svg" width="300px" />
+    <img alt="Logo" title="MIPS" src="images/MIPS.svg" width="320px" />
 </h1>
 
 <p align="center">
@@ -13,9 +13,9 @@
 </p>
 
 ## ✦ Projeto
-<p align="justify">O trabalho prático da disciplina de Organização de Computadores I consistiu na implementação de uma versão simplificada do caminho de dados do MIPS. O projeto teve como objetivo a aprendizagem prática sobre os detalhes de implementação e funcionamento do caminho de dados, onde a base teórica para o entendimento foi dada tanto em sala de aula quanto pela <a href="https://www.google.com/search?sxsrf=ALeKk000HvgChBJBygoekCqoX-c4TgT8YQ%3A1592402186379&ei=CiHqXsHbFpaj5OUP1vGxqAI&q=david+a+patterson+and+john+l+hennessy+computer+organization+and+design+4th+edition&oq=david+a+patterson+and+john+l+hennessy+computer+organization+and+design+4th+edition&gs_lcp=CgZwc3ktYWIQDFAAWABg1hRoAHAAeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjBiKK1gInqAhWWEbkGHdZ4DCUQ4dUDCAw">bibliografia</a> básica da disciplina.</p>
+<p align="justify">O trabalho prático da disciplina de Organização de Computadores I consistiu na implementação de uma versão simplificada do caminho de dados do MIPS. O projeto teve como objetivo a aprendizagem prática sobre os detalhes de implementação e funcionamento desse caminho de dados, onde a base teórica para o entendimento foi dada tanto em sala de aula quanto pela <a href="https://www.google.com/search?sxsrf=ALeKk000HvgChBJBygoekCqoX-c4TgT8YQ%3A1592402186379&ei=CiHqXsHbFpaj5OUP1vGxqAI&q=david+a+patterson+and+john+l+hennessy+computer+organization+and+design+4th+edition&oq=david+a+patterson+and+john+l+hennessy+computer+organization+and+design+4th+edition&gs_lcp=CgZwc3ktYWIQDFAAWABg1hRoAHAAeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjBiKK1gInqAhWWEbkGHdZ4DCUQ4dUDCAw">bibliografia</a> básica da disciplina.</p>
 
-<p align="justify">A implementação foi dada pela linguagem de descrição do hardware verilog, posteriormente os módulos construídos foram testados em uma simulção de ondas utilizando o programa <a href="http://gtkwave.sourceforge.net/">GTKWave</a>. Por fim, a implementação foi transposta para o software <a href="https://www.intel.com.br/content/www/br/pt/software/programmable/quartus-prime/overview.html">Quartus</a> de modo a implementar o caminho de dados construído em um FPGA</p>
+<p align="justify">A implementação foi dada pela linguagem de descrição do hardware verilog, posteriormente os módulos construídos foram testados em uma simulção de ondas utilizando o programa <a href="http://gtkwave.sourceforge.net/">GTKWave</a>. Por fim, a implementação foi transposta para o software <a href="https://www.intel.com.br/content/www/br/pt/software/programmable/quartus-prime/overview.html">Quartus</a> de modo a implementar o que codificado em um FPGA</p>
 
 ## ✦ Estrutura do Caminho de Dados
 <p align="justify">A imagem abaixo ilustra completamente o caminho de dados que foi implementado</p>
