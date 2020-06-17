@@ -35,5 +35,5 @@
 
 ---
 <p align="justify">
-O projeto foi desenvolvido, para fins didáticos, durante a disciplina de Organização de Computadores I do curso de Bacharelado em Ciência da Computação – Campus Florestal
+O projeto foi desenvolvido, para fins didáticos, durante a disciplina de Organização de Computadores I do curso de Bacharelado em Ciência da Computação da UFV – Campus Florestal
 </p>
